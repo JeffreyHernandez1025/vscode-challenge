@@ -1,0 +1,37 @@
+.header {
+  text-align: center;
+  background-color: grey;
+}
+#bg-image {
+  background-image: url(../assets/MyImage.jpeg);
+  background-size: 500px 500px;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#name {
+  text-align: center;
+  color: white;
+  padding-top: 425px;
+  background-color: rgba(0, 0, 0, 0.711);
+  background-clip: content-box;
+  padding-left: 550px;
+  padding-right: 550px;
+}
+html {
+  background-color: black;
+}
+#para {
+  text-align: center;
+  color: white;
+}
+#question {
+  text-align: center;
+  color: white;
+}
+#answerBox {
+  background-color: grey;
+}
+#buttonBox {
+  padding-left: 525px;
+}
